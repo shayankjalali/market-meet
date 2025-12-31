@@ -18,8 +18,8 @@ Constructs an optimized stock portfolio that tracks a blended **S&P 500 + TSX** 
 - **Tracking error:** 0.49% during the competition
 - **Benchmark:** S&P 500 + TSX average
 
-![Screenshot 1](LinkedinPost1.1.png)
-![Screenshot 2](LinkedinPost1.2.png)
+![Screenshot 1](graphresults)
+![Screenshot 2](tableresults)
 
 ## Tech Stack
 
